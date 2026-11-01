@@ -1,2 +1,1 @@
-# redmiwatchfaces.github.io
-Our website (duh)
+# Welcome to Redmi WatchFaces!
