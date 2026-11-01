@@ -1,2 +1,2 @@
 # redmiwatchfaces.github.io
-Our website
+Our website (duh)
